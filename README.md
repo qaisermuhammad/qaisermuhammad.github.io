@@ -34,3 +34,14 @@ This is a static site. You can deploy the folder with GitHub Pages, Netlify, Clo
 ## Customization
 
 Colors and fonts are defined at the top of `styles.css` in `:root`. Change the CSS variables there to re-theme the site.
+
+
+## Updating the live GitHub Pages site
+
+1. Extract this ZIP.
+2. Open the `academic_portfolio` folder.
+3. In your `qaisermuhammad.github.io` GitHub repository, choose **Add file → Upload files**.
+4. Upload the updated `index.html`, `styles.css`, and `script.js` from this folder (and optionally `README.md`).
+5. Commit the changes to `main`. GitHub Pages will redeploy automatically.
+
+The layout update tightens the hero composition, centers the network illustration within its column, and reduces excess vertical spacing. Content-heavy sections remain naturally scrollable rather than being forcibly compressed into one screen.
