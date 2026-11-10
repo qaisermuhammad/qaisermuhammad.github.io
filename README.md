@@ -45,3 +45,9 @@ Colors and fonts are defined at the top of `styles.css` in `:root`. Change the C
 5. Commit the changes to `main`. GitHub Pages will redeploy automatically.
 
 The layout update tightens the hero composition, centers the network illustration within its column, and reduces excess vertical spacing. Content-heavy sections remain naturally scrollable rather than being forcibly compressed into one screen.
+
+
+## Additional portfolio entries
+
+- Safi College of Medical Sciences: institutional website design and development, linked to https://scms.edu.pk/.
+- GN-THERM: software, models, derived inputs, and experimental results hosted on Zenodo (https://zenodo.org/records/23537804; DOI: 10.5281/zenodo.23537804).
