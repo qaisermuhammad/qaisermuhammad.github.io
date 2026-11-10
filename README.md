@@ -51,3 +51,10 @@ The layout update tightens the hero composition, centers the network illustratio
 
 - Safi College of Medical Sciences: institutional website design and development, linked to https://scms.edu.pk/.
 - GN-THERM: software, models, derived inputs, and experimental results hosted on Zenodo (https://zenodo.org/records/23537804; DOI: 10.5281/zenodo.23537804).
+
+
+## Latest update: projects and researcher profiles
+
+This version includes the SCMS institutional website and GN-THERM Zenodo artifact in the Projects section, and the supplied ORCID and Google Scholar profile links in Contact.
+
+When updating GitHub Pages, upload **both `index.html` and `styles.css`** from this ZIP to the repository root and commit them to `main`. If the old version remains visible, hard-refresh the page (Ctrl+F5) or open it in a private/incognito window after the Pages deployment completes.
